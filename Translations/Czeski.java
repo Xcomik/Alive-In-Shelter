@@ -39,13 +39,13 @@ public class Czeski {
             "Někdo rozlil vodu -0.25l", //23
             "Nějaké jídlo se zkazilo -0.2kg", //24
             "Žádná elektřina, otevřete otvor, pokud nemáte baterku.", //25
-            "Ben už nevydržel všechny ty úmrtí nebo pokusy o přežití.", //26
+            "Ben už nevydržel všechna ta úmrtí.", //26
 
             "Rádio bylo konečně opraveno.", //27
             "Plynová maska byla opravena.", //28
             "Rádio je znovu rozbité...", //29
 
-            "Musíme vynést ten pytel od odpadků, jinak nás zabije plíseň!", //30
+            "Musíme vynést ty odpadky, jinak nás zabije plíseň!", //30
             "Dali jsme světelný signál.", //31
             "Ztratili jsme baterku.", //32
             "Ukradli jsme baterku.", //33
@@ -77,12 +77,12 @@ public class Czeski {
             "Úroveň nemocí: ", //56
             "VYSOKÁ", //57
             "NÍZKÁ", //58
-            "Obří mapa", //58
+            "velká mapa", //58
             "Sekera", //59
             "Plynová maska, Stav:", //60
             "Nástroje:", //61
             "První pomoc", //62
-            "Absolutně Normální Baterka", //63
+            "Normální Baterka", //63
             "Jídlo", //64
             "Pití", //65
             "Petrol", //66
@@ -118,14 +118,14 @@ public class Czeski {
             "Našli jsme masku.", //84
             "Našli jsme baterku.", //85
             "Našli jsme rádio!", //86
-            "Našli jsme první pomoc.", //87
-            "Našli jsme nějaký petrol.", //88
+            "Našli jsme lékárničku.", //87
+            "Našli jsme nějaký petrolej.", //88
 
             "Květináč", //89
             "Brambora", //90
             "Alkohol", //91
             "Kamna, nenech nás umrznout", //92
-            "Náš starý věrný destilér", //93
+            "Náš starý destilér", //93
             "Kbelík", //94
             "Doba ledová!?...", //95
             "Čas utíká. Sezení tady je hrozně nudný...", //96
@@ -234,7 +234,7 @@ public class Czeski {
             "Útěk nevyléčí monstrum", // 190
             "DoubleKick", // 191
             "2x větší škody", // 192
-            "Boxovací taška", // 193
+            "Boxovací pytel", // 193
             "Rozhlas", // 194
             "Rukojmí, lano", // 195
 
@@ -257,7 +257,7 @@ public class Czeski {
             "Měli bychom dát vojenský signál nebo najít jiný způsob, jak přežít.", //210
             "Najdeme způsob, jak přežít, nemůžeme jen sedět.", //212
 
-            "[TUTORIAL]\nAhoj! Tohle je tvůj bunkr, můžeš se v něm pohybovat (švihni prstem do leva/prava). Dotkni nebo klikni na věc abys věděl co to je. Dotkni nebo klikni na charaktery aby si věděl jak na tom jsou. Klikni na postel abys usnul.", //213
+            "[TUTORIAL]\nAhoj! Tohle je tvůj bunkr, můžeš se v něm pohybovat (táhni prstem do leva/prava). Dotkni nebo klikni na věc abys věděl co to je. Dotkni nebo klikni na charaktery aby si věděl jak na tom jsou. Klikni na postel abys usnul.", //213
             "[TUTORIAL]\nSkoro všechno na co klikneš a nebo uděláš vytvoří efekt po probuzení ze spánku. Tady jsi teď můžeš přečíst nějaké důležité informace. Poklop je velmi užitečný, můžeš jít na zahradu nebo poklop otevři aby někdo přišel nebo vydej světelný signál.", //214
             "[TUTORIAL]\nKlikni na rádio, jestli Armáda nechce světelný signál. Párkrát to uďelej abys dohrál tuto hru (je tady mnohem víc konců, ale najdi si je sám) :D", //215
             "[TUTORIAL]\nNezapoměn nakrmit charaktery! Abys získal věci/jídlo musíš jít na expedice (boty v charakterovo menu), nezapomeň toho charaktera který jde na expedici nakrmit a dát mu vodu", //216
@@ -291,17 +291,17 @@ public class Czeski {
             "1939 brambor", // 242
             "Spusťte hru s 1939 bramborami.", // 243
             "Pouze 8s výzva", // 244
-            "Máte jen 8 sekund na shromažďování části.", // 245
+            "Máte jen 8 sekund na shromažďování zásob.", // 245
             "Jen potraviny a voda", // 246
             "Spusťte hru jen s 3 litry vody a 2 kg jídla.", // 247
             "Pouze ženy!", // 248
-            "Hrajte pouze s Katrinem.", // 249
+            "Hrajte pouze s Katrin.", // 249
             "Zima přichází", // 250
             "Vždy je mrazivý vítr.", // 251
             "Náhodný", // 252
             "Spusťte hru s náhodnými položkami.", // 253
             "BenHulk", // 254
-            "Spusťte hru s mutovaným Benem.", // 255
+            "Spusťte hru se zmutovaným Benem.", // 255
             "Plant guard", // 256
             "Rostlina pomáhá chránit váš úkryt.", // 257
             "Danse macabre", // 258
@@ -311,14 +311,14 @@ public class Czeski {
             "Bezpečnost venku", // 262
             "Vždy nízké záření.", // 263
             "Extra netopýři", // 264
-            "Netopýři jsou mutovaní. Přinášejí Bloobyy.", // 265
+            "Netopýři jsou mutovaní. Přinášejí Blobyho.", // 265
             "Žádný východ\n", // 266
             "Neexistuje žádná zásuvka.", // 267
             "Klasický režim", // 268
             "Přehrávání v klasickém režimu - staré časy. Pouze jedna místnost atd.", // 269
             "Režim Sandbox", // 270
             "Hrajte v režimu sandbox, udělejte to, co chcete!", // 271
-            "Už žádné tyhle kluky", // 272
+            "Už žádní zlobišáci", // 272
             "Hrajte bez netopýrů, sněhuláka a Pennywhistle.", // 273
             "RPG", // 274
             "Získejte zkušební body a úrovně nahoru.", // 275
@@ -329,7 +329,7 @@ public class Czeski {
 
             "Denní bonus", // 279
             "Týdenní bonus", // 280
-            "I am an indie game developer I spend my free time improving this game. If you want you can help me donating me = buying a premium. You will unlock all DLC items, all shelter items for 0 coins, renaming characters, remembered position and remove all ads. Thanks :)", // 281
+            "Jsem nezávislý herní vývojář, který tráví svůj volný čas vylepšováním této hry. Pokud chcete, můžete mi pomoci darováním = zakoupením prémiového balíčku. Odemknou se vám všechny DLC předměty, všechny předměty z úkrytu za 0 mincí, přejmenování postav, zapamatování pozice a odstranění všech reklam. Díky :)", // 281
             "Podíl ID", // 282
             "Přidala mě", // 283
             "Přátelé sousedy", // 284
@@ -343,9 +343,9 @@ public class Czeski {
             "Čistí členy rodiny.", // 291
             "\"Gommi\" vesnice", // 292
             "\"Dáme vám azyl.\"", // 293
-            "Weed", // 294
+            "tráva", // 294
             "Dildo", // 295
-            "Drugs", // 296
+            "Drogy", // 296
 
             "hlava", // 297
             "paže", // 298
@@ -353,7 +353,7 @@ public class Czeski {
             "nohy", // 300
 
             "Hora", // 301
-            "Yard", // 302
+            "dvorek", // 302
             "Shop # 2", // 303
             "Hrob", // 304
             "Úkryty", // 305
@@ -373,7 +373,7 @@ public class Czeski {
             "Sklad", //319
             "Cena", //320
             "Uran", // 321
-            "Dveře zavřené (potřebuji modrý klíč)", // 322
+            "Dveře jsou zamčené (potřebuji modrý klíč)", // 322
             "Modré tlačítko", // 323
             "Další umístění", // 324
             "Spusťte hru se 2 náhodnými extra mapami!", // 325
@@ -381,11 +381,11 @@ public class Czeski {
             "Spusťte hru se všemi klíči!", // 327
             "Mistr expedic", // 328
             "Spusťte hru se všemi dalšími částmi mapy", // 329
-            "Bad sněhulák se vrátil :(", // 330
+            "Ten sněhulák se vrátil :(", // 330
             "Měřič znečištění je poškozen.", // 331
             "Musíme se sprchovat! Použijeme špinavou vodu.", // 332
-            "Door", // 333
-            "Poison", // 334
+            "Dveře", // 333
+            "Jed", // 334
 
             "966 Gommi Borůvek", // 335
             "Spusťte hru s 966 Gommi Borůvkami.", // 336
@@ -420,7 +420,7 @@ public class Czeski {
             "Pokoj", // 362
             "Zahrada", // 363
             "Suterén", // 364
-            "Magazine", // 365
+            "časopis", // 365
             "Hurikán přichází !!!", // 366
             "Tic Tac shut up", // 367
 
@@ -436,12 +436,12 @@ public class Czeski {
             "Armáda by nám měla říkat rádio, kdy otevřít vchody a dát jim v noci světelný signál.", //377
             "Martha", // 378
 
-            "Ne, Martha zemřel ...", //379
+            "Martha zemřela ...", //379
             "Martha je nemocná, musíme ji uzdravit!", //380
             "Skrýt", // 381
-            "Unesli Martha!", //382
+            "Unesli Marthu!", //382
 
-            "Dobrý den, Martha, jmenuji se Frebbie, nechci tě ublížit, chci ti pomoct, ukážu ti nádherné místo, ale pro mě musíš udělat něco ...", //383
+            "Dobrý den, Martho, jmenuji se Frebbie, nechci tě ublížit, chci ti pomoct, ukážu ti nádherné místo, ale pro mě musíš udělat něco ...", //383
             "Prosím, zabijte svého bratra. Ben je tak hrubý a nemiluje vás ... Vraťte se příští týden.", //384
             "Dávám přednost ženám, prosím, zabijte svého otce Bobe ... Přijďte sem příští týden.", //385
             "Krmte a vodou svou matku. Musí být silná ... Vraťte se sem příští týden.", //386
